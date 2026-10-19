@@ -1,0 +1,21 @@
+[00:34] INFO: job started
+[00:34] INFO: reading input/returns_agadir.csv
+[00:34] INFO: Agadir defective = 11
+[00:34] INFO: Agadir wrong_item = 9
+[00:34] INFO: Agadir changed_mind = 13
+[00:34] INFO: archived as returns_agadir_2026-10-19.csv
+[00:34] INFO: job finished
+[00:34] INFO: job started
+[00:34] INFO: reading input/returns_casa.csv
+[00:34] INFO: Casablanca defective = 18
+[00:34] INFO: Casablanca wrong_item = 8
+[00:34] INFO: Casablanca changed_mind = 8
+[00:34] INFO: archived as returns_casa_2026-10-19.csv
+[00:34] INFO: job finished
+[00:34] INFO: job started
+[00:34] INFO: reading input/returns_tanger.csv
+[00:34] INFO: Tanger defective = 13
+[00:34] INFO: Tanger wrong_item = 12
+[00:34] INFO: Tanger changed_mind = 8
+[00:34] INFO: archived as returns_tanger_2026-10-19.csv
+[00:34] INFO: job finished
