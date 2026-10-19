@@ -1,4 +1,4 @@
-# Module 2 — Exercice Bash : Traitement ETL des retours clients
+# Module 2 - Exercice Bash : Traitement ETL des retours clients
 
 Ce projet met en place un pipeline automatisé de traitement des données de retours clients (`returns.csv`) pour 3 succursales BIM (Agadir, Casablanca, Tanger).
 

@@ -1,0 +1,5 @@
+Docker_project/*
+!Docker_project/Dockerfile
+!Docker_project/docker-compose.yml
+!Docker_project/README.md
+!Docker_project/screens/

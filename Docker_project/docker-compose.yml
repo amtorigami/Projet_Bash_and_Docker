@@ -1,0 +1,14 @@
+services:
+  processor:
+    build: .
+    volumes:
+      - .:/app:z
+
+  viewer:
+    image: nginx:alpine
+    volumes:
+      - ./viewer:/usr/share/nginx/viewer:ro,z
+      - ./output:/usr/share/nginx/output:ro,z
+      - ./viewer.conf:/etc/nginx/conf.d/default.conf:ro,z
+    ports:
+      - "8080:80"
